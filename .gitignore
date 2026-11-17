@@ -1,0 +1,14 @@
+# Build
+/target/
+*.class
+
+# Eclipse & IDEs
+.classpath
+.project
+.settings/
+*.launch
+.sts4-cache/
+
+# OS
+.DS_Store
+Thumbs.db
