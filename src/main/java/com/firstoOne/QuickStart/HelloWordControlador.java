@@ -8,7 +8,7 @@ public class HelloWordControlador {
 	
 	@GetMapping(path = "/hello") 
 	public String helloWorld() {
-		return "Hello Word";
+		return "Hello Aimad";
 	}
 
 }
